@@ -1,0 +1,14 @@
+{
+  "name": "treadmill",
+  "version": "0.1.0",
+  "description": "",
+  "main": "treadmill.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "'Jaye Marshall' <marshall.jaye@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lazy.js": "^0.3.2"
+  }
+}
