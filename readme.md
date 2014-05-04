@@ -4,7 +4,7 @@ A zero-allocation change detection library for plain javascript objects.
 ## Usage
 ```javascript
 "use strict";
-var Treadmill = require('treadmill');
+var Treadmill = require('change-treadmill');
 
 Treadmill.start();
 
